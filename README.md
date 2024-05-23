@@ -1,3 +1,4 @@
 # demo
-this is my first git repository
-author- Vidushi Bhardwaj
+this is my first git repository.
+<br>
+Author- Vidushi Bhardwaj
